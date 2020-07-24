@@ -1,7 +1,8 @@
-## Generate a password hash as produced by crypt (C)
+## Python crypt (c) sha512
+
+Generate a sha512 password hash as produced by Linux crypt (C)
 
 ![genSHA512 (crypt)](https://github.com/nicholashoule/cryptSHA512/workflows/genSHA512%20(crypt)/badge.svg?branch=master)
-
 [![Run on Repl.it](https://repl.it/badge/github/nicholashoule/cryptSHA512)](https://repl.it/github/nicholashoule/cryptSHA512)
 
 ### Compatible with Linux crypt (c).
@@ -27,4 +28,4 @@ Ref: https://en.wikipedia.org/wiki/Crypt_(C)
 Python 3.3+ includes mksalt in crypt.
 
 ##### Run the code:
-https://repl.it/@NicholasHoule/pythongenSHA512
+https://repl.it/@NicholasHoule/cryptSHA512#genSHA512.py
