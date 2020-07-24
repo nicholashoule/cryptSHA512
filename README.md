@@ -2,6 +2,8 @@
 
 ![genSHA512 (crypt)](https://github.com/nicholashoule/cryptSHA512/workflows/genSHA512%20(crypt)/badge.svg?branch=master)
 
+[![Run on Repl.it](https://repl.it/badge/github/nicholashoule/cryptSHA512)](https://repl.it/github/nicholashoule/cryptSHA512)
+
 ### Compatible with Linux crypt (c).
 
 Crypt, as defined by POSIX, doesn't mandate a specific encryption algorithm hence OSX crypt() isn't compatible with this script.
