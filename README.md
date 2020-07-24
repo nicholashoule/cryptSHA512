@@ -1,4 +1,10 @@
-## Generate the printable form of a password hash as produced by crypt (C)
+## Generate a password hash as produced by crypt (C)
+
+![genSHA512 (crypt)](https://github.com/nicholashoule/cryptSHA512/workflows/genSHA512%20(crypt)/badge.svg?branch=master)
+
+### Compatible with Linux crypt (c).
+
+Crypt, as defined by POSIX, doesn't mandate a specific encryption algorithm hence OSX crypt() isn't compatible with this script.
 
 ##### Key derivation functions supported by crypt:
 
